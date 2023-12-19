@@ -18,3 +18,6 @@ if you choose transactions you will have 4 options
                                                     4- back to main menu
 if you choose (deposite or withdraw) you should enter account number 
 almost you need to confirm all transactions and (update , delete) operations 
+
+************IMPORTANT**************
+if you code using (VS code) you have to comment all lines that change cmd colors and pause preogram 
