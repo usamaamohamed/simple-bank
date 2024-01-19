@@ -1,3 +1,4 @@
+extension 1
 simple bank project using c++ 
 first the program will read clients data from .txt file ,if you do not hava data do not worry run code and program will generate an empty .txt file
 then you can use the operations to fill the data
@@ -21,3 +22,10 @@ almost you need to confirm all transactions and (update , delete) operations
 
 ************IMPORTANT**************
 if you code using (VS code) you have to comment all lines that change cmd colors and pause preogram 
+----------------------------------------------------------------------------------------------------------------------------------------
+in extension 2 
+same features in 1 
+but first you have to login with a user (username: admin & password: 1111) i will attach users_data.txt and you levev of access if (-1) you have full access or (sum of permissions)
+                                                    <<<hint access only on users operations not clinets>>>
+
+
