@@ -1,0 +1,4 @@
+User number 1
+UserName: admin
+Password: 1111
+Permissions: -1
