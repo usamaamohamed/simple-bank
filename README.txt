@@ -13,7 +13,7 @@ first you have 7 operatrions to do
 you can (delete , update and find) any client by account number 
 if you choose to add new client you should enter all the data required (name , phone , balance , pin code , account number)
 if you choose transactions you will have 4 options
-                                                    1- deposite 
+                                                    1- deposit
                                                     2- withdraw
                                                     3- show all clients (names , balances , account numbers)
                                                     4- back to main menu
@@ -34,6 +34,17 @@ also you can update permissions even for user admin
 
                                                                             ************IMPORTANT**************
                                             if you code using (VS code) you have to comment all lines that change cmd colors and pause program   
+----------------------------------------------------------------------------------------------------------------------------------------
+in ATM
+simple ATM application 
+first you enter account number and pincode (you have 3 iterations )
+after loging in you can check balance , deposit or withdraw (you can withdraw with 2 methods) quick withdraw will give you some options and normal will let it up to you
+                                                                            
+                                                                            ************IMPORTANT**************
+                                                                            ************IMPORTANT**************
+you have to create clients data file first you can create it with bank extension (1 or 2)
 
 
 
+                                                                            ************IMPORTANT**************
+                                            if you code using (VS code) you have to comment all lines that change cmd colors and pause program   
